@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Time Off">62708c8d4d33111075128bf29b801f67</applet_launcher>
+        <icon display_value="My Requests Icon">2a708c8d8633111082a0d46c39dad566</icon>
+        <label>Time Off</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 04:25:56</sys_created_on>
+        <sys_id>e6708c8d29331110ffaa2ac5f86f2966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Time Off</sys_name>
+        <sys_package display_value="Time Off" source="x_849361_time_off">26708c8db433111097e88fa40d11a691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">26708c8db433111097e88fa40d11a691</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_e6708c8d29331110ffaa2ac5f86f2966</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-14 04:25:56</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

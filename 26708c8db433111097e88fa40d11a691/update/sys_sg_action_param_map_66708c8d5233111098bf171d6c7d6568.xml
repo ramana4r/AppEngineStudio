@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Create time request">e2708c8d963311102219538ccea06b68</button>
+        <item_parameter display_value="Request start_date">a6708c8d6d331110b42ea9c0d3bfaf68</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 04:26:02</sys_created_on>
+        <sys_id>66708c8d5233111098bf171d6c7d6568</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a6708c8d6d331110b42ea9c0d3bfaf68</sys_name>
+        <sys_package display_value="Time Off" source="x_849361_time_off">26708c8db433111097e88fa40d11a691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">26708c8db433111097e88fa40d11a691</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_66708c8d5233111098bf171d6c7d6568</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-14 04:26:02</sys_updated_on>
+        <ui_parameter display_value="Start date">a2708c8dba3311108cbbb426af1f1968</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

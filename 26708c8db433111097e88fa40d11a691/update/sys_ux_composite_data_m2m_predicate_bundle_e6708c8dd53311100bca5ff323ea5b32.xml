@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Time Off - Recent Requests">e2708c8d25331110999461a6b454cd33</dataset>
+        <order>10</order>
+        <predicate_bundle display_value="to_recent_bundle">66708c8dad331110a9b5f634521b1932</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 04:25:48</sys_created_on>
+        <sys_id>e6708c8dd53311100bca5ff323ea5b32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time Off" source="x_849361_time_off">26708c8db433111097e88fa40d11a691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">26708c8db433111097e88fa40d11a691</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_e6708c8dd53311100bca5ff323ea5b32</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-14 04:25:48</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

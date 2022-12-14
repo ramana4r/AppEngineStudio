@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="to_navigation">e6708c8ddf331110318707a91f72a381</declarative_action_assignment>
+        <predicate display_value="Time Off Config - All Requests">26708c8d083311103606c9de40428d32</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 04:25:52</sys_created_on>
+        <sys_id>e6708c8d2833111014a82c99c259c825</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time Off" source="x_849361_time_off">26708c8db433111097e88fa40d11a691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">26708c8db433111097e88fa40d11a691</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_e6708c8d2833111014a82c99c259c825</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-14 04:25:52</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

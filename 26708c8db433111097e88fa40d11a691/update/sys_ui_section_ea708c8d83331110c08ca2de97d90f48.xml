@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="ea708c8d83331110c08ca2de97d90f48" sys_domain="global" table="x_849361_time_off_request" version="3" view="record_x_849361_time_off">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rejection_reason</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 04:26:03</sys_created_on>
+            <sys_id>6e708c8d15331110848adc7d84a5d644</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_849361_time_off_request" sys_domain="global" view="ae708c8d2e331110c2280f1ef8db5848">ea708c8d83331110c08ca2de97d90f48</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 04:26:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 04:26:03</sys_created_on>
+            <sys_id>e2708c8d35331110cef69a04260e8845</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_849361_time_off_request" sys_domain="global" view="ae708c8d2e331110c2280f1ef8db5848">ea708c8d83331110c08ca2de97d90f48</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 04:26:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_off_reason</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 04:26:03</sys_created_on>
+            <sys_id>ae708c8d47331110ddd5ce1278e61a44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_849361_time_off_request" sys_domain="global" view="ae708c8d2e331110c2280f1ef8db5848">ea708c8d83331110c08ca2de97d90f48</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 04:26:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 04:26:03</sys_created_on>
+            <sys_id>2a708c8d7c331110c4c4c9b661532844</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_849361_time_off_request" sys_domain="global" view="ae708c8d2e331110c2280f1ef8db5848">ea708c8d83331110c08ca2de97d90f48</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 04:26:03</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 04:26:03</sys_created_on>
+            <sys_id>6a708c8d813311103de76a70709b4744</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_849361_time_off_request" sys_domain="global" view="ae708c8d2e331110c2280f1ef8db5848">ea708c8d83331110c08ca2de97d90f48</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 04:26:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 04:26:03</sys_created_on>
+            <sys_id>2e708c8dd73311101513b154b82d7244</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_849361_time_off_request" sys_domain="global" view="ae708c8d2e331110c2280f1ef8db5848">ea708c8d83331110c08ca2de97d90f48</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 04:26:03</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 04:26:03</sys_created_on>
+            <sys_id>ea708c8dfc3311103cba201b9845d144</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_849361_time_off_request" sys_domain="global" view="ae708c8d2e331110c2280f1ef8db5848">ea708c8d83331110c08ca2de97d90f48</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 04:26:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 04:26:03</sys_created_on>
+            <sys_id>e6708c8d9e3311104ef0c93d195ec144</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_849361_time_off_request" sys_domain="global" view="ae708c8d2e331110c2280f1ef8db5848">ea708c8d83331110c08ca2de97d90f48</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 04:26:03</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_849361_time_off_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 04:26:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ea708c8d83331110c08ca2de97d90f48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_849361_time_off_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Time Off" source="x_849361_time_off">26708c8db433111097e88fa40d11a691</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time Off">26708c8db433111097e88fa40d11a691</sys_scope>
+            <sys_update_name>sys_ui_section_ea708c8d83331110c08ca2de97d90f48</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 04:26:03</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Record (x_849361_time_off)" name="record_x_849361_time_off">ae708c8d2e331110c2280f1ef8db5848</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

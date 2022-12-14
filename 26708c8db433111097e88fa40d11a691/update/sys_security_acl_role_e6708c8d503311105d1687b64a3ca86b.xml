@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 04:25:52</sys_created_on>
+        <sys_id>e6708c8d503311105d1687b64a3ca86b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time Off" source="x_849361_time_off">26708c8db433111097e88fa40d11a691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">26708c8db433111097e88fa40d11a691</sys_scope>
+        <sys_security_acl display_value="x_849361_time_off_request.work_notes">22708c8de73311103475de387552356d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e6708c8d503311105d1687b64a3ca86b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-14 04:25:52</sys_updated_on>
+        <sys_user_role display_value="x_849361_time_off.manager" name="x_849361_time_off.manager">a6708c8dba331110317ea4c49a605890</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

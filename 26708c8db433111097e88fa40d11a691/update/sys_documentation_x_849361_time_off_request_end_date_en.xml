@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="end_date" label="End date" language="en" table="x_849361_time_off_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <help/>
+            <hint/>
+            <label>End date</label>
+            <language>en</language>
+            <name>x_849361_time_off_request</name>
+            <plural>End dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id>22708c8d4733111016869128436d43ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>End date</sys_name>
+            <sys_package display_value="Time Off" source="x_849361_time_off">26708c8db433111097e88fa40d11a691</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time Off">26708c8db433111097e88fa40d11a691</sys_scope>
+            <sys_update_name>sys_documentation_x_849361_time_off_request_end_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 04:25:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

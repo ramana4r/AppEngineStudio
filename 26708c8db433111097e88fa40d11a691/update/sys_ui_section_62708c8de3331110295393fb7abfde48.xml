@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="62708c8de3331110295393fb7abfde48" sys_domain="global" table="x_849361_time_off_request" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_off_reason</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 04:26:03</sys_created_on>
+            <sys_id>2a708c8d2833111026b135249c06ac43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_849361_time_off_request" sys_domain="global" view="5658007121920110a866589604c20d32">62708c8de3331110295393fb7abfde48</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 04:26:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_849361_time_off_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-14 04:26:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>62708c8de3331110295393fb7abfde48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_849361_time_off_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Time Off" source="x_849361_time_off">26708c8db433111097e88fa40d11a691</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time Off">26708c8db433111097e88fa40d11a691</sys_scope>
+            <sys_update_name>sys_ui_section_62708c8de3331110295393fb7abfde48</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-14 04:26:03</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">5658007121920110a866589604c20d32</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

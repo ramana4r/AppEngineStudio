@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>requested_by.manager</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-14 04:25:52</sys_created_on>
+        <sys_id>a6708c8dae331110a61f675944d33c46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>requested_by.manager</sys_name>
+        <sys_package display_value="Time Off" source="x_849361_time_off">26708c8db433111097e88fa40d11a691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off">26708c8db433111097e88fa40d11a691</sys_scope>
+        <sys_update_name>sys_ui_policy_action_a6708c8dae331110a61f675944d33c46</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-14 04:25:52</sys_updated_on>
+        <table>x_849361_time_off_request</table>
+        <ui_policy display_value="Read-only fields">aa708c8da933111046bad6a55de92146</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
